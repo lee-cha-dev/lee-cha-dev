@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm lee-cha-dev 👋
 
-<!--
-**lee-cha-dev/lee-cha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Languages and Tools
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-cha-dev&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=lee-cha-dev&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Loading...
+```
+<!--END_SECTION:waka-->
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lee-charles-98324910b)
+
+### 📈 GitHub Activity Graph
+[![Your Name's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lee-cha-dev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+- 🔭 I'm currently working on a PowerShell library aimed at automating tier 1 & tier 2 IT Support
+- 🌱 I'm currently learning PowerShell & advanced data analytics libs within Python
+- 💬 Ask me about my projects or something that falls within their tech stack.
+- 📫 How to reach me: LinkedIn is a good way to reach out.
+
+<details>
+<summary>⚡ More Stats</summary>
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lee-cha-dev&theme=dark)](https://git.io/streak-stats)
+
+</details>
