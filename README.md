@@ -6,13 +6,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lee-cha-dev&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
 
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Loading...
-```
-<!--END_SECTION:waka-->
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lee-cha-dev&theme=dark)](https://git.io/streak-stats)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lee-charles-98324910b)
@@ -26,11 +21,3 @@ Loading...
 - 🌱 I'm currently learning PowerShell & advanced data analytics libs within Python
 - 💬 Ask me about my projects or something that falls within their tech stack.
 - 📫 How to reach me: LinkedIn is a good way to reach out.
-
-<details>
-<summary>⚡ More Stats</summary>
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lee-cha-dev&theme=dark)](https://git.io/streak-stats)
-
-</details>
