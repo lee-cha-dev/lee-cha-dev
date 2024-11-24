@@ -6,6 +6,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lee-cha-dev&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
 
+## ⚡ Streaks
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lee-cha-dev&theme=dark)](https://git.io/streak-stats)
 
 ## 🌐 Connect with me
